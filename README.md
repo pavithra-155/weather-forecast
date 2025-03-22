@@ -1,4 +1,4 @@
-project number 1
+project number 
 Weather Forecast Webpage
 
 Project Overview
